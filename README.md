@@ -1,7 +1,7 @@
 
 # [MICCAI26‘] SurgLQA: Scalable Long-Horizon Surgical Video Question Answering
 ## Demo
-<video src="assets/SurgLQA_DEMO.mp4" width="100%" controls></video>
+[![Watch the video]](https://youtu.be/JjkSskG5OFg)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
